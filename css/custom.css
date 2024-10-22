@@ -200,7 +200,8 @@ h3 {
 }
 
 .badges {
-  height: 60px;
+  max-height: 60px;
+  width: 180px;
 }
 
 .copyrig {
@@ -224,7 +225,7 @@ h3 {
 .carousel-control-prev-icon {background-color: #544c60;}
 
 .padding-carousel {
-  padding-left: 22%;
+  padding: 0 12%;
 }
 
 
